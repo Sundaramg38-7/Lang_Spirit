@@ -250,9 +250,4 @@ This project is licensed under the [MIT License](LICENSE). _(Change this if you 
 ---
 
 ⭐ If you like this project, give it a star on GitHub!
-#   L a n g _ S p i r i t 
- 
- 
 
-#   L a n g _ S p i r i t  
- 
